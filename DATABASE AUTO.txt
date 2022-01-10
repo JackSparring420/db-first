@@ -1,6 +1,6 @@
 Auto in vendita																																	
 																															
-ID INT		Produttore VARCHAR(20)			Modello	VARCHAR(20)		Cilindrata SMALLINT		Cambio VARCHAR(15)		Novo/Usato/Km0 VARCHAR(5)		Alimentazione VARCHAR(15)		Numero di porte	TINYINT		Posti TINYINT		Colore VARCHAR(20)		Trazione VARCHAR(10)		Data Immatricolazione	Date | Null		Prezzo listino (espresso in centesimi) DECIMAL(9,2)
+ID INT		Produttore VARCHAR(20)			Modello	VARCHAR(20)		Cilindrata SMALLINT		Cambio VARCHAR(15)		Novo/Usato/Km0 VARCHAR(5)		Alimentazione VARCHAR(15)		Numero di porte	TINYINT		Posti TINYINT		Colore VARCHAR(20)		Trazione VARCHAR(10)		Data Immatricolazione	Date | Null		Prezzo listino DECIMAL(9,2)
 1		Fiat					500x				1200				Manuale				Nuovo					Disel						3			  4			Rossa				Anteriore			null						16500,00
 2		Ford					Fiesta				1500				Manuale				Km0					Disel						5			  5			Blu notte			Anteriore			12/12/2021					19750,00
 3		Toyota					Hybrid				1600				Automatico			Usato					Ibrida-benzina					5			  5			Grigio				Anteriore			25/03/2018					11350,00
